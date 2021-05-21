@@ -70,6 +70,11 @@
 	desc = "Express your happiness or hide your sorrows with this laughing face with crying tears of joy cutout."
 	icon_state = "joy"
 
+/obj/item/clothing/mask/trolling
+	name = "troll mask"
+	desc = "For when you want to watch the world burn."
+	icon_state = "trolling"
+
 /obj/item/clothing/mask/pig
 	name = "pig mask"
 	desc = "A rubber pig mask with a builtin voice modulator."
